@@ -1,0 +1,25 @@
+{
+  "name": "react-socket-server-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastiancassisi/react-socket-server-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastiancassisi/react-socket-server-basic/issues"
+  },
+  "homepage": "https://github.com/sebastiancassisi/react-socket-server-basic#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "socket.io": "^4.1.1"
+  }
+}
