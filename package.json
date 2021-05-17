@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/sebastiancassisi/react-socket-server-basic#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
     "socket.io": "^4.1.1"
